@@ -1,0 +1,6 @@
+module Pods_COVID_Trend_Tracker {
+  umbrella header "Pods-COVID Trend Tracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
